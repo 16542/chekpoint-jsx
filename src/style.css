@@ -1,0 +1,13 @@
+
+.Container {
+    display: block;
+
+
+}
+.Container > img {
+    width:50%;
+
+}
+.Container > .title  {
+color: red;
+}
